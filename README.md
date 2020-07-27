@@ -18,4 +18,5 @@ In this case study, we are going to handle the same problem of overfitting and t
 * id- sample id
 * target- a binary target of mysterious origin.
 * 0-299- continuous variables.
-* Evaluation Metric: AUROC
+##  Evaluation Metric 
+* AUROC
